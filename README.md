@@ -1,0 +1,2 @@
+An Arduino IOT Project, the level of the garbage is detected with the help of ultrasonic sensor and sent to the authorized agency for garbage collection through GSM system. The GSM and the ultrasonic sensor used are interfaced through the Arduino microcontroller. 
+Depending on the received calls through the GSM module, the authorized person will come to collect the garbage on time. This will capably help to monitor the garbage collection to make the environment smart, clean and safe.
